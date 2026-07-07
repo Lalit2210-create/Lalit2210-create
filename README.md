@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Y Lalit
 
-<!--
-**Lalit2210-create/Lalit2210-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science & Engineering Student | Frontend Developer | DSA Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+🎓 Pursuing **B.E. in Computer Science and Engineering** at **Chandigarh University** (GPA: **6.77**)  
+💡 Passionate about **Frontend Design, and Problem Solving**  
+💻 Skilled in **React, HTML, CSS, C++, Java, and MySQL**  
+🌱 Constantly exploring opportunities to apply my skills in **real-world projects**  
+📫 Reach me at **lalitkumar72296@gmail.com**
+
+---
+
+## 💼 Work Experience
+
+📊 **AI Web Development Intern** — *InAmigos Foundation*  
+🗓️ *September 2025 – October 2025*
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+C++, Java, SQL  
+
+**Frontend:**  
+HTML, CSS, JavaScript, React  
+
+**Tools & Platforms:**  
+Git, GitHub, MySQL, VScode  
+
+---
+
+## 🏆 Achievements & Certifications
+
+🥇 **Summer Internship Certification in Java** — Core Java, OOPs, Basic Project 
+💼 **Ultimate Student Award** — Manav Rachna University, Delhi   
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **lalitkumar72296@gmail.com**  
+💻 GitHub: https://github.com/Lalit2210-create
+
+---
+
+⭐ *“Design beautifully. Code smartly. Solve meaningfully.”*
