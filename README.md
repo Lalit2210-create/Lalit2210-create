@@ -48,4 +48,3 @@ Git, GitHub, MySQL, VScode
 
 ---
 
-⭐ *“Design beautifully. Code smartly. Solve meaningfully.”*
