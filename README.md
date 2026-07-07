@@ -17,7 +17,7 @@
 ## 💼 Work Experience
 
 📊 **AI Web Development Intern** — *InAmigos Foundation*  
-🗓️ *September 2025 – October 2025*
+🗓️ *July 2026 – Present*
 
 ---
 
