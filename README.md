@@ -4,12 +4,12 @@
 
 ---
 
-## About Me
+## 🌟 About Me
 
 🎓 Pursuing **B.E. in Computer Science and Engineering** at **Chandigarh University** (GPA: **6.77**)  
-💡 Passionate about **Frontend Design, and Problem Solving**  
-💻 Skilled in **React, HTML, CSS, C++, Java, and MySQL**  
-🌱 Constantly exploring opportunities to apply my skills in **real-world projects**  
+💡 Passionate about **Frontend Development, UI Design, and Problem Solving**  
+💻 Proficient in **React, HTML, CSS, C++, Java, and MySQL**  
+🌱 Actively building projects and applying my skills to **real-world use cases**  
 📫 Reach me at **lalitkumar72296@gmail.com**
 
 ---
@@ -17,35 +17,40 @@
 ## 💼 Work Experience
 
 📊 **AI Web Development Intern** — *InAmigos Foundation*  
-🗓️ *July 2026 – Present*
+🗓️ *July 2026 – Present*  
+- Contributing to frontend development and AI-assisted web features  
+- Working with modern web technologies to build responsive interfaces  
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-C++, Java, SQL  
+**Programming Languages**  
+- C++, Java, SQL  
 
-**Frontend:**  
-HTML, CSS, JavaScript, React  
+**Frontend Technologies**  
+- HTML, CSS, JavaScript, React  
 
-**Tools & Platforms:**  
-Git, GitHub, MySQL, VScode  
+**Tools & Platforms**  
+- Git, GitHub, MySQL, VS Code  
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-**Summer Internship Certification in Java** — Core Java, OOPs, Basic Project 
+🏅 **Summer Internship Certification in Java**  
+- Core Java, OOP Concepts, and Basic Project Development  
 
-**Ultimate Student Award** — Manav Rachna University, Delhi   
+🏆 **Ultimate Student Award**  
+- Manav Rachna University, Delhi  
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: **lalitkumar72296@gmail.com**  
-💻 GitHub: https://github.com/Lalit2210-create
+📧 **Email:** lalitkumar72296@gmail.com  
+💻 **GitHub:** https://github.com/Lalit2210-create  
 
 ---
 
+⭐ *“Write clean code. Design with purpose. Build for impact.”*
