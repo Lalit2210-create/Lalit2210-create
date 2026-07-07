@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Y Lalit
 
-🚀 **Computer Science & Engineering Student | Frontend Developer | DSA Enthusiast**
+**Computer Science & Engineering Student | Frontend Developer | DSA Enthusiast**
 
 ---
 
-## 🌟 About Me
+## About Me
 
 🎓 Pursuing **B.E. in Computer Science and Engineering** at **Chandigarh University** (GPA: **6.77**)  
 💡 Passionate about **Frontend Design, and Problem Solving**  
@@ -36,8 +36,9 @@ Git, GitHub, MySQL, VScode
 
 ## 🏆 Achievements & Certifications
 
-🥇 **Summer Internship Certification in Java** — Core Java, OOPs, Basic Project 
-💼 **Ultimate Student Award** — Manav Rachna University, Delhi   
+**Summer Internship Certification in Java** — Core Java, OOPs, Basic Project 
+
+**Ultimate Student Award** — Manav Rachna University, Delhi   
 
 ---
 
