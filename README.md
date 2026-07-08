@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-🎓 Pursuing **B.E. in Computer Science and Engineering** at **Chandigarh University** (GPA: **6.77**)  
+🎓 Pursuing **B.E. in Computer Science and Engineering** at **Chandigarh University**  
 💡 Passionate about **Frontend Development, UI Design, and Problem Solving**  
 💻 Proficient in **React, HTML, CSS, C++, Java, and MySQL**  
 🌱 Actively building projects and applying my skills to **real-world use cases**  
