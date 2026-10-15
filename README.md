@@ -17,9 +17,16 @@
 ## 💼 Work Experience
 
 📊 **AI Web Development Intern** — *InAmigos Foundation*  
-🗓️ *July 2026 – Present*  
-- Contributing to frontend development and AI-assisted web features  
-- Working with modern web technologies to build responsive interfaces  
+🗓️ *1 July 2026 – 14 July 2026*
+- Contributed to frontend development and AI-assisted web features.
+- Built responsive user interfaces using modern web technologies.
+- Supported web development tasks focused on user experience and engagement.
+
+💻 **Software Development Intern** — *Cognifyz IT Solutions Pvt. Ltd.*
+🗓️ *14 July 2026 – 14 August 2026*
+- Designed and developed software solutions as part of hands-on internship tasks.
+- Applied programming skills to debugging, testing, and feature development.
+- Improved problem-solving and software development skills through practical coding tasks.
 
 ---
 
